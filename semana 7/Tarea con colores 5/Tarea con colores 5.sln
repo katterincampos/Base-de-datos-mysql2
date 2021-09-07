@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea con colores 5", "Tarea con colores 5.csproj", "{62FBB992-01FC-4057-A565-16B2F5D9A129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62FBB992-01FC-4057-A565-16B2F5D9A129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FBB992-01FC-4057-A565-16B2F5D9A129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FBB992-01FC-4057-A565-16B2F5D9A129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FBB992-01FC-4057-A565-16B2F5D9A129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6403E388-2B81-4580-AEFD-532A394152D0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,223 @@
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form1.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form1.resources
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form2.resources
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form1.resources
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form2.resources
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form1.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form2.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form3.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form4.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form5.resources
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form1.resources
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form2.resources
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form3.resources
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form4.resources
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form5.resources
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\usuario\Desktop\github\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form6.resources
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form1.resources
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form2.resources
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form3.resources
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form4.resources
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form5.resources
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form6.resources
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Downloads\Formularios-colores (1)\Formularios-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form3.resources
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form4.resources
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form5.resources
+C:\Users\pc\source\repos\github\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form6.resources
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form1.resources
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form2.resources
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form3.resources
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form4.resources
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form5.resources
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form6.resources
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\juana\Source\Repos\Formularios-con-colores\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form1.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form2.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form3.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form4.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form5.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form6.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Form7.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\karla2206\Formulario\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Menú.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Menú.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.fLogin.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Menú.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.AboutBox1.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.fLogin.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Menú.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Computadoras.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Laptops.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Celulares.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ventas.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda2.resources
+C:\Users\10kar\OneDrive\Escritorio\Program ciclo II\parcial1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.AboutBox1.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.fLogin.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Computadoras.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Menú.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Laptops.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Celulares.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ventas.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda2.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\usuario\Desktop\github\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe.config
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.exe
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\bin\Debug\Tarea con colores 5.pdb
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.AboutBox1.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.fLogin.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Computadoras.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Menú.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Laptops.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Celulares.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ventas.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda2.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\pc\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Integrantes.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.AboutBox1.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Computadoras.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Integrantes.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Laptops.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Celulares.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ventas.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda2.resources
+C:\Users\juana\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.AboutBox1.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.fLogin.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Computadoras.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Integrantes.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Laptops.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Celulares.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ventas.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda2.resources
+C:\Users\Jose Lobos\Source\Repos\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.AboutBox1.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.fLogin.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Computadoras.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Integrantes.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Laptops.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Celulares.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ventas.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda2.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda.resources

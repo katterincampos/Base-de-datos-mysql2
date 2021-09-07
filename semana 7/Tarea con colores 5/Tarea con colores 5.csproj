@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62FBB992-01FC-4057-A565-16B2F5D9A129}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Tarea_con_colores_5</RootNamespace>
+    <AssemblyName>Tarea con colores 5</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Tarea_con_colores_5.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acerca de.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acerca de.Designer.cs">
+      <DependentUpon>Acerca de.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Computadoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Computadoras.Designer.cs">
+      <DependentUpon>Computadoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Integrantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Integrantes.Designer.cs">
+      <DependentUpon>Integrantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menú.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menú.Designer.cs">
+      <DependentUpon>Menú.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Laptops.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laptops.Designer.cs">
+      <DependentUpon>Laptops.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Celulares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Celulares.Designer.cs">
+      <DependentUpon>Celulares.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas.Designer.cs">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ayuda2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayuda2.Designer.cs">
+      <DependentUpon>Ayuda2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayuda.Designer.cs">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Acerca de.resx">
+      <DependentUpon>Acerca de.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Computadoras.resx">
+      <DependentUpon>Computadoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Integrantes.resx">
+      <DependentUpon>Integrantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menú.resx">
+      <DependentUpon>Menú.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laptops.resx">
+      <DependentUpon>Laptops.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Celulares.resx">
+      <DependentUpon>Celulares.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas.resx">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ayuda2.resx">
+      <DependentUpon>Ayuda2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ayuda.resx">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\big_data_01-1200x648.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FACE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28270%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28270%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28272%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28275%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28300%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28302%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28304%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28307%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28322%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\53493124-computer-service-contorno-ilustración-reparación-de-portátiles-ilustración.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\53493124-computer-service-contorno-ilustración-reparación-de-portátiles-ilustración %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48798761-la-configuración-de-iconos-en-el-fondo-verde-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48798761-la-configuración-de-iconos-en-el-fondo-verde- %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\218-2186546_desarrollo-software-png-mexico-y-el-desarrollo-de.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-web-development-software-development-computer-icons-mobile-app-development-web-developer-web-design-angle-web-design-web-hosting-service.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maintenance-computer-support-concept-vector-thin-line-icon-sign-symbol-illustration-isolated-background-102705054 %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\218-2186546_desarrollo-software-png-mexico-y-el-desarrollo-de1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\53493124-computer-service-contorno-ilustración-reparación-de-portátiles-ilustración %282%291.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
