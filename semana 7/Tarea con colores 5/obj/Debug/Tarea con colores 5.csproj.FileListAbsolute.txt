@@ -221,3 +221,21 @@ C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Deb
 C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ventas.resources
 C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda2.resources
 C:\Users\Jose Lobos\Source\Repos\karla2206\Parcial-1\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.AssemblyReference.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.AboutBox1.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.fLogin.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Computadoras.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Integrantes.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Menú.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Laptops.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Celulares.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ventas.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda2.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Ayuda.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.Properties.Resources.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.GenerateResource.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea con colores 5.csproj.CoreCompileInputs.cache
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.formadmin.resources
+C:\Users\Jose Lobos\Source\Repos\karla2206\Bases-de-datos\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.frmestandar.resources

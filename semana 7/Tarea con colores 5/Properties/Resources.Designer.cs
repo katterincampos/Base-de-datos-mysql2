@@ -236,6 +236,26 @@ namespace Tarea_con_colores_5.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Captura_de_pantalla__404_ {
+            get {
+                object obj = ResourceManager.GetObject("Captura de pantalla (404)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Captura_de_pantalla__407_ {
+            get {
+                object obj = ResourceManager.GetObject("Captura de pantalla (407)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap FACE {
             get {
                 object obj = ResourceManager.GetObject("FACE", resourceCulture);

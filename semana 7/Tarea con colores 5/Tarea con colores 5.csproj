@@ -67,6 +67,18 @@
     <Compile Include="Computadoras.Designer.cs">
       <DependentUpon>Computadoras.cs</DependentUpon>
     </Compile>
+    <Compile Include="formadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formadmin.Designer.cs">
+      <DependentUpon>formadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmestandar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmestandar.Designer.cs">
+      <DependentUpon>frmestandar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Integrantes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -119,6 +131,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Computadoras.resx">
       <DependentUpon>Computadoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formadmin.resx">
+      <DependentUpon>formadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmestandar.resx">
+      <DependentUpon>frmestandar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Integrantes.resx">
       <DependentUpon>Integrantes.cs</DependentUpon>
@@ -223,6 +241,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\53493124-computer-service-contorno-ilustración-reparación-de-portátiles-ilustración %282%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28404%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla %28407%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
