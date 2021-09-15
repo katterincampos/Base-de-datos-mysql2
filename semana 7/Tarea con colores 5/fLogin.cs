@@ -14,66 +14,22 @@ namespace Tarea_con_colores_5
    
     public partial class fLogin : Form
     {
-        string usuario = "usuario1";
-        string contraseña = "usuario1";
+        
 
         public fLogin()
         {
             InitializeComponent();
         }
         //  conexion de la base de datos
-        OleDbConnection con = new OleDbConnection (@ "Provider = Microsoft.Jet.OLEDB.4.0;Data Source= Provider = Microsoft.Jet.OLEDB.4.0; Data Source = C:/Users/Jose Lobos/OneDrive - Universidad Gerardo Barrios/Escritorio/Base de Datos/Database1.mdb");
+        OleDbConnection con = new OleDbConnection (@"Provider = Microsoft.Jet.OLEDB.4.0;Data Source= Provider = Microsoft.Jet.OLEDB.4.0; Data Source = C:/Users/Jose Lobos/OneDrive - Universidad Gerardo Barrios/Escritorio/Base de Datos/Database1.mdb");
        
         
         private void baceptar_Click(object sender, EventArgs e)
         {
-            if(txtusuario.Text != contraseña  || txtcontra.Text != contraseña  )
-            {
-                if (txtusuario.Text != usuario )
-                {
-                    MessageBox.Show("Usuario incorrecto");
-                    txtusuario.Clear();
-                    txtusuario.Focus();
-                    return;
-                }
-                if (txtcontra.Text!=contraseña )
-                {
-                    MessageBox.Show("La contrsaseña ingresada es incorrecta");
-                    txtcontra.Clear();
-                    txtcontra.Focus();
-                    return;
-                }
-            }
-            else
-            {
-                Form menu = new Menú();
-                this.Hide();
-                menu.ShowDialog();
-                
-
-            }
-        }
-
-        private void fLogin_Load(object sender, EventArgs e)
-        {
-            try
-            {
-                con.Open();
-                MessageBox.Show("Conectado a la base de datos");
-                con.Close();
-            }
-            catch (Exception)
-            {
-                MessageBox.Show("No se pudo conectar a la base datos");
-            }
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
             string usuario = txtusuario.Text;
             string password = txtcontra.Text;
 
-            if (usuario== "" || password == "")
+            if (usuario == "" || password == "")
             {
                 MessageBox.Show("Llene todos los campos");
                 return;
@@ -87,14 +43,14 @@ namespace Tarea_con_colores_5
 
             {
                 string tipo = dt.Rows[0]["tipo usuario"].ToString();
-                if (tipo== "1")
-           
-            {
+                if (tipo == "1")
+
+                {
                     MessageBox.Show("estandar");
                     this.Hide();
                     frmestandar frm = new frmestandar();
                     frm.Show();
-            }
+                }
                 else if (tipo == "2")
                 {
                     MessageBox.Show("Admin");
@@ -109,7 +65,34 @@ namespace Tarea_con_colores_5
                 }
             }
             con.Close();
-        } 
-       
+        }
+
+
+
+        private void fLogin_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                con.Open();
+                MessageBox.Show("Conectado a la base de datos");
+                con.Close();
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("No se pudo conectar a la base datos");
+            }
+        }
+    
+           private void button2_Click(object sender, EventArgs e)
+{
+
+
+        }
     }
 }
+
+
+
+
+
+

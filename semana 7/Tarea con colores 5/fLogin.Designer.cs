@@ -85,7 +85,7 @@ namespace Tarea_con_colores_5
             this.baceptar.Name = "baceptar";
             this.baceptar.Size = new System.Drawing.Size(103, 37);
             this.baceptar.TabIndex = 4;
-            this.baceptar.Text = "Aceptar";
+            this.baceptar.Text = "Base de datos acces";
             this.baceptar.UseVisualStyleBackColor = true;
             this.baceptar.Click += new System.EventHandler(this.baceptar_Click);
             // 
