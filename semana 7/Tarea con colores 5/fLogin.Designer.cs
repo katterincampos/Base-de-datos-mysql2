@@ -44,10 +44,11 @@ namespace Tarea_con_colores_5
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.Control;
             this.label1.Font = new System.Drawing.Font("Calisto MT", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(49, 207);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(199, 19);
+            this.label1.Size = new System.Drawing.Size(153, 15);
             this.label1.TabIndex = 0;
             this.label1.Text = "Ingrese su nombre de usuario";
             // 
@@ -56,7 +57,7 @@ namespace Tarea_con_colores_5
             this.txtusuario.Font = new System.Drawing.Font("Calisto MT", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtusuario.Location = new System.Drawing.Point(235, 204);
             this.txtusuario.Name = "txtusuario";
-            this.txtusuario.Size = new System.Drawing.Size(116, 26);
+            this.txtusuario.Size = new System.Drawing.Size(116, 22);
             this.txtusuario.TabIndex = 1;
             // 
             // label2
@@ -66,7 +67,7 @@ namespace Tarea_con_colores_5
             this.label2.Font = new System.Drawing.Font("Calisto MT", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(88, 267);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(148, 19);
+            this.label2.Size = new System.Drawing.Size(114, 15);
             this.label2.TabIndex = 2;
             this.label2.Text = "Ingrese su contraseña";
             // 
@@ -75,7 +76,7 @@ namespace Tarea_con_colores_5
             this.txtcontra.Font = new System.Drawing.Font("Calisto MT", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtcontra.Location = new System.Drawing.Point(235, 264);
             this.txtcontra.Name = "txtcontra";
-            this.txtcontra.Size = new System.Drawing.Size(116, 26);
+            this.txtcontra.Size = new System.Drawing.Size(116, 22);
             this.txtcontra.TabIndex = 3;
             this.txtcontra.UseSystemPasswordChar = true;
             // 
@@ -102,17 +103,17 @@ namespace Tarea_con_colores_5
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.label3.BackColor = System.Drawing.SystemColors.Control;
             this.label3.Font = new System.Drawing.Font("Lucida Calligraphy", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(109, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(202, 24);
+            this.label3.Size = new System.Drawing.Size(163, 20);
             this.label3.TabIndex = 6;
             this.label3.Text = "Perfil de Usuario";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(162, 318);
+            this.button1.Location = new System.Drawing.Point(230, 318);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(121, 57);
             this.button1.TabIndex = 7;
@@ -122,9 +123,9 @@ namespace Tarea_con_colores_5
             // 
             // fLogin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(385, 404);
             this.Controls.Add(this.button1);
