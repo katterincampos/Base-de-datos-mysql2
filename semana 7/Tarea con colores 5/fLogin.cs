@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.OleDb;
+using System.Data.SqlClient;
 
 namespace Tarea_con_colores_5
 {
@@ -22,8 +23,9 @@ namespace Tarea_con_colores_5
         }
         //  conexion de la base de datos
         OleDbConnection con = new OleDbConnection (@"Provider = Microsoft.Jet.OLEDB.4.0;Data Source= Provider = Microsoft.Jet.OLEDB.4.0; Data Source = C:/Users/Jose Lobos/OneDrive - Universidad Gerardo Barrios/Escritorio/Base de Datos/Database1.mdb");
-       
-        
+
+        SqlConnection conexion = new SqlConnection("server= LAPTOP-3RAU1QMD; database=programacion1; INTEGRATED SECURITY = true");
+
         private void baceptar_Click(object sender, EventArgs e)
         {
             string usuario = txtusuario.Text;
@@ -82,11 +84,30 @@ namespace Tarea_con_colores_5
                 MessageBox.Show("No se pudo conectar a la base datos");
             }
         }
-    
-           private void button2_Click(object sender, EventArgs e)
-{
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            {
+                conexion.Open();
+                SqlCommand comando = new SqlCommand("SELECT usuario, contraseña from ingreso where usuario='" + txtusuario.Text + "'and contraseña = '" + txtcontra.Text + "'", conexion);
+
+                SqlDataReader lector = comando.ExecuteReader();
+
+                if (lector.Read())
+                {
+                    Menú pantalla = new Menú();
+                    pantalla.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    MessageBox.Show("Usuario o Contraseña de acceso incorrecto", "Error");
+
+                }
 
 
+
+            }
         }
     }
 }

@@ -103,6 +103,11 @@
     <Compile Include="Celulares.Designer.cs">
       <DependentUpon>Celulares.cs</DependentUpon>
     </Compile>
+    <Compile Include="Programacion1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Programacion1DataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Ventas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -169,6 +174,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Programacion1DataSet.xsc">
+      <DependentUpon>Programacion1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Programacion1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Programacion1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Programacion1DataSet.xss">
+      <DependentUpon>Programacion1DataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -247,6 +263,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Captura de pantalla %28407%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
