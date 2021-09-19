@@ -136,6 +136,16 @@ namespace Tarea_con_colores_5.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _560216 {
+            get {
+                object obj = ResourceManager.GetObject("560216", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap big_data_01_1200x648 {
             get {
                 object obj = ResourceManager.GetObject("big_data_01-1200x648", resourceCulture);
