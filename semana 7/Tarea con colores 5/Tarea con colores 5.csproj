@@ -55,6 +55,11 @@
     <Compile Include="Acerca de.Designer.cs">
       <DependentUpon>Acerca de.cs</DependentUpon>
     </Compile>
+    <Compile Include="Database1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="fLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +83,12 @@
     </Compile>
     <Compile Include="frmestandar.Designer.cs">
       <DependentUpon>frmestandar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fusuario.Designer.cs">
+      <DependentUpon>fusuario.cs</DependentUpon>
     </Compile>
     <Compile Include="Integrantes.cs">
       <SubType>Form</SubType>
@@ -143,6 +154,9 @@
     <EmbeddedResource Include="frmestandar.resx">
       <DependentUpon>frmestandar.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fusuario.resx">
+      <DependentUpon>fusuario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Integrantes.resx">
       <DependentUpon>Integrantes.cs</DependentUpon>
     </EmbeddedResource>
@@ -174,6 +188,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Database1DataSet.xsc">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet.xss">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
     <None Include="Programacion1DataSet.xsc">
       <DependentUpon>Programacion1DataSet.xsd</DependentUpon>
     </None>
@@ -269,6 +294,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\560216.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database1.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

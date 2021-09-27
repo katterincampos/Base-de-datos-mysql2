@@ -65,11 +65,12 @@ namespace Tarea_con_colores_5
                 {
                     MessageBox.Show("USUARIO NO AUTORIZADO");
                 }
+                
             }
             con.Close();
         }
 
-
+       
 
         private void fLogin_Load(object sender, EventArgs e)
         {

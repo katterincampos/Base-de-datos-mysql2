@@ -106,6 +106,11 @@ namespace Tarea_con_colores_5
             Form integrantesdeequipo = new Integrantes();
             integrantesdeequipo.Show();
         }
+
+        private void Menú_Load(object sender, EventArgs e)
+        {
+
+        }
     }
     }
 
