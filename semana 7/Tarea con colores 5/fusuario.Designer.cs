@@ -154,6 +154,7 @@ namespace Tarea_con_colores_5
             this.button5.TabIndex = 15;
             this.button5.Text = "Nuevo";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -172,6 +173,7 @@ namespace Tarea_con_colores_5
             this.button7.TabIndex = 17;
             this.button7.Text = "Modificar";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button8
             // 
@@ -190,6 +192,7 @@ namespace Tarea_con_colores_5
             this.button9.TabIndex = 19;
             this.button9.Text = "Guardar";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
@@ -199,6 +202,7 @@ namespace Tarea_con_colores_5
             this.button10.TabIndex = 20;
             this.button10.Text = "Actualizar";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button11
             // 
