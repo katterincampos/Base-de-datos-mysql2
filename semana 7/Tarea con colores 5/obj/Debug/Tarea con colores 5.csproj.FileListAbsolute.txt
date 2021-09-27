@@ -324,3 +324,4 @@ C:\Users\Jose Lobos\Source\Repos\Base-de-datos-acces\semana 7\Tarea con colores 
 C:\Users\Jose Lobos\Source\Repos\Base-de-datos-acces\semana 7\Tarea con colores 5\obj\Debug\Tarea con colores 5.exe
 C:\Users\Jose Lobos\Source\Repos\Base-de-datos-acces\semana 7\Tarea con colores 5\obj\Debug\Tarea con colores 5.pdb
 C:\Users\Jose Lobos\Source\Repos\Base-de-datos-acces\semana 7\Tarea con colores 5\obj\Debug\Tarea_con_colores_5.fusuario.resources
+C:\Users\Jose Lobos\Source\Repos\Base-de-datos-acces\semana 7\Tarea con colores 5\bin\Debug\Database1.mdb

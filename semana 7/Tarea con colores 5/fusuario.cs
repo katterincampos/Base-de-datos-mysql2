@@ -129,5 +129,37 @@ namespace Tarea_con_colores_5
 
 
         }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Menú fm = new Menú(); fm.Show();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                OleDbCommand eliminar = new OleDbCommand(); miconexion.Open(); eliminar.Connection = miconexion; eliminar.CommandType = CommandType.Text;
+
+                eliminar.CommandText = "DELETE FROM tusuario WHERE nombre = '" + textBox1.Text.ToString() + "'";
+                eliminar.ExecuteNonQuery(); this.usuariosBindingSource.MoveNext();
+                miconexion.Close();
+                MessageBox.Show("Usuario eliminado con éxito", "Ok",
+                MessageBoxButtons.OK, MessageBoxIcon.Information);
+                this.usuariosBindingSource.MovePrevious();
+            }
+            catch (Exception err)
+            {
+                MessageBox.Show(err.Message);
+            }
+
+
+
+        }
     }
 }

@@ -20,9 +20,9 @@ namespace Tarea_con_colores_5
         private void button1_Click(object sender, EventArgs e)
         {
 
-            Form menu = new Menú();
+            Form fusuario = new fusuario();
             this.Hide();
-            menu.ShowDialog();
+            fusuario.ShowDialog();
         }
     }
 }
