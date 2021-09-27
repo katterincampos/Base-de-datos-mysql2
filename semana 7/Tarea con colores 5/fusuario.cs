@@ -75,7 +75,7 @@ namespace Tarea_con_colores_5
                 OleDbCommand guardar = new OleDbCommand(); miconexion.Open();
                 guardar.Connection = miconexion; guardar.CommandType = CommandType.Text;
 
-                guardar.CommandText = "INSERT INTO tusuario ([nombre], [clave],[nivel]) Values('" + textBox1.Text.ToString() + "','" +
+                guardar.CommandText = "INSERT INTO Usuarios ([Usuario], [Password],[tipo usuario]) Values('" + textBox1.Text.ToString() + "','" +
                textBox2.Text.ToString() + "','" + comboBox2.Text.ToString() + "')";
                 guardar.ExecuteNonQuery(); miconexion.Close();
 
