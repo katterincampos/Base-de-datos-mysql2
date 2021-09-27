@@ -40,7 +40,7 @@ namespace Tarea_con_colores_5
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(123, 190);
+            this.label1.Location = new System.Drawing.Point(167, 217);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(184, 30);
             this.label1.TabIndex = 0;
@@ -50,7 +50,7 @@ namespace Tarea_con_colores_5
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(162, 9);
+            this.label2.Location = new System.Drawing.Point(189, 10);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(125, 25);
             this.label2.TabIndex = 1;
@@ -59,18 +59,18 @@ namespace Tarea_con_colores_5
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Tarea_con_colores_5.Properties.Resources.Captura_de_pantalla__407_;
-            this.pictureBox1.Location = new System.Drawing.Point(83, 55);
+            this.pictureBox1.Location = new System.Drawing.Point(97, 63);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(286, 110);
+            this.pictureBox1.Size = new System.Drawing.Size(334, 127);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(326, 237);
+            this.button1.Location = new System.Drawing.Point(194, 275);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(100, 30);
+            this.button1.Size = new System.Drawing.Size(117, 35);
             this.button1.TabIndex = 3;
             this.button1.Text = "Ingresar";
             this.button1.UseVisualStyleBackColor = true;
@@ -78,14 +78,15 @@ namespace Tarea_con_colores_5
             // 
             // formadmin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DodgerBlue;
-            this.ClientSize = new System.Drawing.Size(475, 279);
+            this.ClientSize = new System.Drawing.Size(554, 322);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Font = new System.Drawing.Font("Comic Sans MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "formadmin";
             this.Text = "formadmin";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
