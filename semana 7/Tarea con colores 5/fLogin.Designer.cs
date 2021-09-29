@@ -37,6 +37,7 @@ namespace Tarea_con_colores_5
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -58,6 +59,7 @@ namespace Tarea_con_colores_5
             this.txtusuario.Name = "txtusuario";
             this.txtusuario.Size = new System.Drawing.Size(116, 22);
             this.txtusuario.TabIndex = 1;
+            this.txtusuario.TextChanged += new System.EventHandler(this.txtusuario_TextChanged);
             // 
             // label2
             // 
@@ -83,7 +85,7 @@ namespace Tarea_con_colores_5
             // 
             this.baceptar.BackColor = System.Drawing.Color.Silver;
             this.baceptar.Font = new System.Drawing.Font("Calisto MT", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.baceptar.Location = new System.Drawing.Point(12, 318);
+            this.baceptar.Location = new System.Drawing.Point(0, 318);
             this.baceptar.Name = "baceptar";
             this.baceptar.Size = new System.Drawing.Size(111, 57);
             this.baceptar.TabIndex = 4;
@@ -118,13 +120,24 @@ namespace Tarea_con_colores_5
             // 
             this.button1.BackColor = System.Drawing.Color.Silver;
             this.button1.Font = new System.Drawing.Font("Calisto MT", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(230, 318);
+            this.button1.Location = new System.Drawing.Point(126, 318);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(121, 57);
             this.button1.TabIndex = 7;
             this.button1.Text = "Base de datos SQL Server";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("Calisto MT", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(265, 318);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(108, 57);
+            this.button2.TabIndex = 8;
+            this.button2.Text = "Base de datos Mysql";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // fLogin
             // 
@@ -133,6 +146,7 @@ namespace Tarea_con_colores_5
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(385, 404);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.pictureBox1);
@@ -161,5 +175,6 @@ namespace Tarea_con_colores_5
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }

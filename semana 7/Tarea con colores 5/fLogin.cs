@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.OleDb;
 using System.Data.SqlClient;
+using MySql.Data.MySqlClient;
 
 namespace Tarea_con_colores_5
 {
@@ -21,10 +22,14 @@ namespace Tarea_con_colores_5
         {
             InitializeComponent();
         }
+
+        
         //  conexion de la base de datos
         OleDbConnection con = new OleDbConnection (@"Provider = Microsoft.Jet.OLEDB.4.0;Data Source= Provider = Microsoft.Jet.OLEDB.4.0; Data Source = C:/Users/Jose Lobos/OneDrive - Universidad Gerardo Barrios/Escritorio/Base de Datos/Database1.mdb");
 
         SqlConnection conexion = new SqlConnection("server= LAPTOP-3RAU1QMD; database=programacion1; INTEGRATED SECURITY = true");
+
+        String connectionstring = " server=127.0.0.1; port= 3306; user id=root; database= ingreso_mysql ";
 
         private void baceptar_Click(object sender, EventArgs e)
         {
@@ -109,6 +114,54 @@ namespace Tarea_con_colores_5
 
 
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            String query = "selecct * from tb_user where username - '" + txtusuario.Text + "'  AND  password- ' " + txtcontra.Text + " ' ";
+            MySqlConnection databaseConnection = new MySqlConnection(connectionstring);
+            MySqlCommand commandDatabase = new MySqlCommand(query, databaseConnection);
+            commandDatabase.CommandTimeout = 60;
+            MySqlDataReader reader;
+
+            try
+            {
+                databaseConnection.Open();
+                reader = commandDatabase.ExecuteReader();
+
+                if (reader.HasRows)
+                {
+                    while (reader.Read())
+                    {
+                        MessageBox.Show("Login to fo");
+                        Menú Menú = new Menú();
+                        Menú.Show();
+                        this.Hide();
+
+                    }
+                }
+                else
+                {
+                    MessageBox.Show(" Oops! Something went wrong. Please try again later");
+               
+                }
+                databaseConnection.Close();
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+        }
+
+
+
+
+
+        private void txtusuario_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
